@@ -22,7 +22,7 @@ function fontawesome_iconpicker_libraries_info() {
     'download url' => FONTAWESOME_ICONPICKER_DOWNLOAD_URL,
     'version callback' => 'fontawesome_iconpicker_get_version',
     'version arguments' => array(
-      'file' => 'bower.json',
+      'file' => 'package.json',
     ),
     'files' => array(
       'css' => array(
