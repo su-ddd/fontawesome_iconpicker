@@ -1,5 +1,5 @@
 name = Font Awesome Iconpicker
-description = A convinient icon picker library for text fields.
+description = A convenient icon picker library for text fields.
 dependencies[] = fontawesome
 core = "7.x"
 
